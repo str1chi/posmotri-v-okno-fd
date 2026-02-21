@@ -194,7 +194,7 @@ ol {
 }
 
 .content__video-card-description {
-  line-height: 1.2;
+  line-height: 16.2px;
   display: -webkit-box;
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 4;
